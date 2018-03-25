@@ -11,4 +11,4 @@ This is the LCDmisc I'm using now, https://www.dropbox.com/s/aw93h6m69r7ujxm/LCD
 
 G19 keyboard with build in LCD screen was the best Idea Logitech ever had .. 
 
-Just wish they would re release a newer version.. 
+Just wish they would re-release a newer version.. 
