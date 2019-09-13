@@ -3,9 +3,9 @@ Automatically exported from code.google.com/p/lcdmiscellany
 
  UPDATE  July 2017 
  
-This is the LCDmisc I'm using now, https://www.dropbox.com/s/aw93h6m69r7ujxm/LCDMICS.7z?dl=0 this version, is for the X3 universe... Litcube's Universe mod. Its the full LCD version with X3
+This is the LCDmisc I'm using now, On this site https://forum.egosoft.com/viewtopic.php?t=320774&postdays=0&postorder=asc&start=0 The Dev made with the X3 game inmind. A full LCDMISC version with X3
 
-On this site https://forum.egosoft.com/viewtopic.php?t=320774&postdays=0&postorder=asc&start=0 is the original Dev who made the X3  verisons.
+
 
 G19 keyboard with build in LCD screen was the best Idea Logitech ever had .. 
 
